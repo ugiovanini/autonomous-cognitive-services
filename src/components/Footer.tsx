@@ -14,7 +14,7 @@ const Footer = () => {
               <span className="font-display font-bold text-lg text-foreground">
                 Autonomous
               </span>
-              <span className="block text-xs text-muted-foreground -mt-0.5">
+              <span className="block text-sm text-muted-foreground -mt-0.5 uppercase">
                 Cognitive Services
               </span>
             </div>
