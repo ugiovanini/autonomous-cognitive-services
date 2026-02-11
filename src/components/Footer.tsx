@@ -25,9 +25,6 @@ const Footer = () => {
             <p className="text-sm text-muted-foreground">
               Plataforma B2B de Automação Operacional e Decisão Assistida
             </p>
-            <p className="text-xs text-muted-foreground mt-1">
-              Resultado da fusão: Autonomous Chat Cognitivo + EASY APP + SmartConcierge
-            </p>
           </div>
 
           {/* Copyright */}
