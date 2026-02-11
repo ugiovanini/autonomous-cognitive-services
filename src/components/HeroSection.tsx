@@ -24,7 +24,7 @@ const HeroSection = () => {
 
           {/* Main Headline */}
           <h1 className="font-display text-4xl sm:text-5xl lg:text-7xl font-bold leading-tight mb-6 fade-in-up delay-100">
-            <span className="text-foreground">IA Autônoma com</span>
+            <span className="text-foreground">Sua Operação Autônoma</span>
             <br />
             <span className="gradient-text">Governança Nativa</span>
           </h1>
